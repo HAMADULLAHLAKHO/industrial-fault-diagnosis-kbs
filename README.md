@@ -31,9 +31,8 @@ It uses stored diagnostic knowledge, user-provided symptoms, and additional evid
 ## Project Files
 - `main.py` — Main program and inference engine
 - `knowledge_base.csv` — Diagnostic and inference rules
-- `sources.csv` — Technical references used for the knowledge base
+- `knowledge_sources.csv` — Technical references used for the knowledge base
 - `Project_Report.pdf` — Project documentation
-- `Presentation.pptx` — Project presentation
 
 ## How to Run
 
